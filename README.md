@@ -23,5 +23,5 @@ Generative model capable of output pair of scans of cell cross sections given th
 * yifei.zhi@student.uts.edu.au
 
 ## Acknowledgments
-Program structure based on 
+Program structure based on DCGAN section in:
 * Brownlee, J. (2020). Generative Adversarial Networks with Python (v1.5).
