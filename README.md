@@ -3,8 +3,7 @@ Generate bio scans superimposing the input scan
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
+Generative model capable of output pair of scans of cell cross sections given the corresponding superimposed scan. Model based on conventional DCGAN.
 
 ### Dependencies
 
