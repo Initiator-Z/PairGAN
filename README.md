@@ -22,7 +22,7 @@ Generative model capable of outputing a pair of scans of cell cross sections giv
 * Data: https://drive.google.com/file/d/17Pph1KJvQ8fxul8wqPry2JTNI6dFm2Up/view?usp=sharing
 * Model: https://drive.google.com/file/d/12_XEYLh-SCvJvEaIqabIu9oCfQo4TaXu/view?usp=sharing
 
-## Authors
+## Author
 * Yifei Zhi
 * yifei.zhi@student.uts.edu.au
 
