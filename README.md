@@ -19,8 +19,8 @@ Generative model capable of output pair of scans of cell cross sections given th
 * Generate file to be used to generate scans with pretrained models, path to input image required in the last block.
 
 ## Link to data and pretrained models
-*Data: https://drive.google.com/file/d/17Pph1KJvQ8fxul8wqPry2JTNI6dFm2Up/view?usp=sharing
-*Model: https://drive.google.com/file/d/12_XEYLh-SCvJvEaIqabIu9oCfQo4TaXu/view?usp=sharing
+* Data: https://drive.google.com/file/d/17Pph1KJvQ8fxul8wqPry2JTNI6dFm2Up/view?usp=sharing
+* Model: https://drive.google.com/file/d/12_XEYLh-SCvJvEaIqabIu9oCfQo4TaXu/view?usp=sharing
 
 ## Authors
 * Yifei Zhi
