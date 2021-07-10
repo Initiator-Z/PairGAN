@@ -11,7 +11,7 @@ Generative model capable of outputing a pair of scans of cell cross sections giv
 * matplotlib 3.4.2
 
 ### Installing
-* clone the repository or download directly
+* Clone the repository or download directly
 
 ### Executing program
 * Run the files in jupyter notebook.
